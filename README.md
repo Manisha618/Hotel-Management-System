@@ -14,19 +14,3 @@ Tech Stack
 - MySQL (Database)
 - pymysql connector
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## How to Run
-1. Clone this repository:
